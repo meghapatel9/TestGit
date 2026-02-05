@@ -6,7 +6,7 @@ package unittestdemo;
 
 /**
  *
- * @author pate1823
+ * @author Megha Patel
  */
 public class UnitTestDemo {
 
